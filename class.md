@@ -1,0 +1,2 @@
+Name: Afua
+Loc: GA
